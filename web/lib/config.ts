@@ -7,7 +7,7 @@ export const siteConfig = {
   url: env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000",
   links: {
     website: "https://ondrejptak.dev",
-    github: "https://github.com/florixak",
+    github: "https://github.com/ondrejptak",
   },
 } as const
 
